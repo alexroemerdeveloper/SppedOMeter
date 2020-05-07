@@ -13,6 +13,7 @@
 		6F59D5C4246426110095A7B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F59D5C3246426110095A7B6 /* Assets.xcassets */; };
 		6F59D5C7246426110095A7B6 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6F59D5C6246426110095A7B6 /* Preview Assets.xcassets */; };
 		6F59D5CA246426110095A7B6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6F59D5C8246426110095A7B6 /* LaunchScreen.storyboard */; };
+		6F59D5D2246426800095A7B6 /* MeterView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6F59D5D1246426800095A7B6 /* MeterView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6F59D5C6246426110095A7B6 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		6F59D5C9246426110095A7B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6F59D5CB246426110095A7B6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6F59D5D1246426800095A7B6 /* MeterView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MeterView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				6F59D5BD246426100095A7B6 /* AppDelegate.swift */,
 				6F59D5BF246426100095A7B6 /* SceneDelegate.swift */,
 				6F59D5C1246426100095A7B6 /* ContentView.swift */,
+				6F59D5D1246426800095A7B6 /* MeterView.swift */,
 				6F59D5C3246426110095A7B6 /* Assets.xcassets */,
 				6F59D5C8246426110095A7B6 /* LaunchScreen.storyboard */,
 				6F59D5CB246426110095A7B6 /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				6F59D5BE246426100095A7B6 /* AppDelegate.swift in Sources */,
 				6F59D5C0246426100095A7B6 /* SceneDelegate.swift in Sources */,
+				6F59D5D2246426800095A7B6 /* MeterView.swift in Sources */,
 				6F59D5C2246426100095A7B6 /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
